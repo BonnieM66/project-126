@@ -1,0 +1,26 @@
+.heading
+{
+    font-size: 25px;
+    width: 80%;
+    margin: 10;
+    color: rgb(238, 234, 224);
+    background-color: rgb(96, 144, 96);
+    box-shadow: 5px 5px 5px rgb(151, 70, 70);
+}
+
+body
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.note
+{
+    font-size: 15px;
+}
+
+canvas
+{
+    border: 5px;
+    border-color: rgb(83, 134, 97);
+    box-shadow: 5px 5px 5px rgb(151, 70, 70);
+}
